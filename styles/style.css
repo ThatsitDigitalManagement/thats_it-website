@@ -2,3 +2,19 @@
 html {
   font: 10px arial, helvetica, sans-serif;
 }
+.img-responsive {
+  width: 100%;
+}
+.middle {
+  margin: 0 auto;
+}
+.center {
+  text-align: center;
+}
+/* Style options */
+/* Header */
+#header-info {
+  max-width: 480px;
+}
+/* Main (Content) */
+/* Footer */
